@@ -42,8 +42,6 @@ cd ..
 - Test
 
 ```bash
-# dtu dataset
-./scripts/dtu/dtu_multiscans.sh
 
 # tanksandtemples dataset
 # A sample set is shown in the following file.
